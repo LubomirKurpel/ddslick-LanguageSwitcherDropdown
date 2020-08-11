@@ -1,6 +1,6 @@
-# ddSlick for Language Switcher Dropdown module for Drupal 8 / 9
+# ddSlick for Language Switcher Dropdown module for Drupal 8
 
-Working ddslick library for Druapl 8 Language Switcher Dropdown module. 
+Working ddslick library for Drupal 8 Language Switcher Dropdown module. 
 
 ## Installation
 
